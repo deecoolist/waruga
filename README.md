@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Wilujeng Sumping di Waruga
+
+### Waruga nyeta Warung Urang Garut
 
 You can use the [editor on GitHub](https://github.com/deecoolist/waruga/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
