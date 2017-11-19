@@ -2,4 +2,4 @@
 
 ### Warga Republik Unggas Garut
 
-Merupakan bagian dari produk [Agri Kulawarga](https://kulawar.ga)
+Merupakan bagian dari kampanye produk [CV. Agri Kulawarga](https://kulawar.ga)
